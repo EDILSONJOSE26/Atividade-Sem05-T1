@@ -1,0 +1,8 @@
+v1 = int(input())
+v2 = int(input())
+v3 = int(input())
+v4 = int(input())
+v5 = int(input())
+print(max(v1, v2, v3, v4, v5))
+print(min(v1, v2, v3, v4, v5))
+print((v1 + v2 + v3 + v4 + v5)/5)
